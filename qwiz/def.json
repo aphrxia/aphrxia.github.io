@@ -1,0 +1,24 @@
+[
+    {
+        "categoryId": "category-001",
+        "category": "Football",
+        "quizes": [
+            "juve1",
+            "milan1"
+        ]
+    },
+    {
+        "categoryId": "category-002",
+        "category": "Computer & Technology",
+        "quizes": [
+            "linux1"
+        ]
+    },
+    {
+        "categoryId": "category-003",
+        "category": "Entertainment",
+        "quizes": [
+            "movie1"
+        ]
+    }
+]
