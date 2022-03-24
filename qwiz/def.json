@@ -3,22 +3,22 @@
         "categoryId": "category-001",
         "category": "Football",
         "quizes": [
-            "juve1",
-            "milan1"
+            "little-things-about-juve",
+            "are-you-milanisti-enough"
         ]
     },
     {
         "categoryId": "category-002",
         "category": "Computer & Technology",
         "quizes": [
-            "linux1"
+            "the-tux"
         ]
     },
     {
         "categoryId": "category-003",
         "category": "Entertainment",
         "quizes": [
-            "movie1"
+            "what-movie-quote"
         ]
     }
 ]
