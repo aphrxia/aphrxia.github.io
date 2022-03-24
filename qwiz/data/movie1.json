@@ -1,0 +1,564 @@
+{
+  "id": "movie-quotes-9eiryy3jdkkas",
+  "title": "What movie is that quote?",
+  "startupMessage": "I'll give you some quotes. Your task is to guess from which movie it is. ",
+  "closingMessage": "Thanks for playing!",
+  "properties": {
+    "created_by": "foobar",
+    "description": "They lite up our screen",
+    "active": true,
+    "display": true,
+    "tags": ["movies", "quotes"]
+  },
+  "labels": {
+    "startButtonLabel": "Start",
+    "nextButtonLabel": "Continue",
+    "previousButtonLabel": "Previous",
+    "skipButtonLabel": "Skip"
+  },
+  "options": {
+    "showIntro": true,
+    "allowRestart": true,
+    "allowGoBack": false,
+    "allowSkipQuestion": true,
+    "scrambleQuestionChoices": true,
+    "revealAnswer": true,
+    "revealTimeout": 1500,
+    "countdown": {
+      "useCountdownForEachQuestion": true,
+      "countdownMax": 10,
+      "countdownIndicator": {
+        "show": true,
+        "inDisplay": "loading"
+      }
+    },
+    "questionFont": "font-yeseva",
+    "questionChoiceFont": "roboto-mono",
+    "background": {
+      "type": "color",
+      "value": "yellow"
+    }
+  },
+  "questions": [
+    {
+      "questionId": "q01",
+      "type": "text",
+      "correctChoiceId": "oew",
+      "questionContent": {
+        "text": "My precious...",
+        "choices": [
+          {
+            "choiceId": "hsd",
+            "choiceText": "Jaws"
+          },
+          {
+            "choiceId": "oew",
+            "choiceText": "The Lord of The Rings: The Two Towers"
+          },
+          {
+            "choiceId": "zaq",
+            "choiceText": "Office Space"
+          },
+          {
+            "choiceId": "xbe",
+            "choiceText": "The Notebook"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q02",
+      "type": "text",
+      "correctChoiceId": "qbb",
+      "questionContent": {
+        "text": "I'm the king of the world!",
+        "choices": [
+          {
+            "choiceId": "hsd",
+            "choiceText": "American Beauty"
+          },
+          {
+            "choiceId": "urd",
+            "choiceText": "Cinema Paradiso"
+          },
+          {
+            "choiceId": "zaq",
+            "choiceText": "The Pianist"
+          },
+          {
+            "choiceId": "qbb",
+            "choiceText": "Titanic"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q13",
+      "type": "text",
+      "correctChoiceId": "prt",
+      "questionContent": {
+        "text": "Houston, we have a problem.",
+        "choices": [
+          {
+            "choiceId": "qy1",
+            "choiceText": "Alien"
+          },
+          {
+            "choiceId": "prt",
+            "choiceText": "Apollo 13"
+          },
+          {
+            "choiceId": "kaw",
+            "choiceText": "Space Cowboys"
+          },
+          {
+            "choiceId": "oew",
+            "choiceText": "Now, Voyager"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q07",
+      "type": "text",
+      "correctChoiceId": "wzx",
+      "questionContent": {
+        "text": "We'll always have Paris.",
+        "choices": [
+          {
+            "choiceId": "wzx",
+            "choiceText": "Casablanca"
+          },
+          {
+            "choiceId": "urd",
+            "choiceText": "Caddyshack"
+          },
+          {
+            "choiceId": "zaq",
+            "choiceText": "The Wizard of Oz"
+          },
+          {
+            "choiceId": "eew",
+            "choiceText": "The Pride of the Yankees"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q03",
+      "type": "text",
+      "correctChoiceId": "p23",
+      "questionContent": {
+        "text": "My mama always said life was like a box of chocolates.",
+        "choices": [
+          {
+            "choiceId": "qy1",
+            "choiceText": "Auntie Mame"
+          },
+          {
+            "choiceId": "mfw",
+            "choiceText": "The Graduate"
+          },
+          {
+            "choiceId": "p23",
+            "choiceText": "Forrest Gump"
+          },
+          {
+            "choiceId": "asd",
+            "choiceText": "A Streetcar Named Desire"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q04",
+      "type": "text",
+      "correctChoiceId": "fdd",
+      "questionContent": {
+        "text": "Seize the day, boys. Make your lives extraordinary.",
+        "choices": [
+          {
+            "choiceId": "fdd",
+            "choiceText": "Dead Poet Society"
+          },
+          {
+            "choiceId": "cvd",
+            "choiceText": "Some Like It Hot"
+          },
+          {
+            "choiceId": "zaq",
+            "choiceText": "Dirty Dancing"
+          },
+          {
+            "choiceId": "asd",
+            "choiceText": "Yankee Doodle Dandy"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q05",
+      "type": "text",
+      "correctChoiceId": "ooe",
+      "questionContent": {
+        "text": "Attica! Attica!",
+        "choices": [
+          {
+            "choiceId": "ccc",
+            "choiceText": "Shane"
+          },
+          {
+            "choiceId": "qwe",
+            "choiceText": "Field of Dreams"
+          },
+          {
+            "choiceId": "zaq",
+            "choiceText": "Bonnie and Clyde"
+          },
+          {
+            "choiceId": "ooe",
+            "choiceText": "Dog Day Afternoon"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q06",
+      "type": "text",
+      "correctChoiceId": "oar",
+      "questionContent": {
+        "text": "A martini. Shaken, not stirred.",
+        "choices": [
+          {
+            "choiceId": "oar",
+            "choiceText": "Goldfinger"
+          },
+          {
+            "choiceId": "xsw",
+            "choiceText": "From Russia with Love"
+          },
+          {
+            "choiceId": "vbb",
+            "choiceText": "Dr. No"
+          },
+          {
+            "choiceId": "trr",
+            "choiceText": "Moonraker"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q09",
+      "type": "text",
+      "correctChoiceId": "qwe",
+      "questionContent": {
+        "text": "You can't handle the truth!",
+        "choices": [
+          {
+            "choiceId": "ccc",
+            "choiceText": "To Have and Have Not"
+          },
+          {
+            "choiceId": "qwe",
+            "choiceText": "A Few Good Men"
+          },
+          {
+            "choiceId": "lkm",
+            "choiceText": "Airplane!"
+          },
+          {
+            "choiceId": "kjh",
+            "choiceText": "Funny Girl"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q10",
+      "type": "text",
+      "correctChoiceId": "xcw",
+      "questionContent": {
+        "text": "You talking to me?",
+        "choices": [
+          {
+            "choiceId": "xcw",
+            "choiceText": "Taxi Driver"
+          },
+          {
+            "choiceId": "qwe",
+            "choiceText": "The Adventures of Sherlock Holmes"
+          },
+          {
+            "choiceId": "lkm",
+            "choiceText": "In the Heat of the Night"
+          },
+          {
+            "choiceId": "kjh",
+            "choiceText": "Network"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q11",
+      "type": "text",
+      "correctChoiceId": "ukk",
+      "questionContent": {
+        "text": "I am big. It's the pictures that got small.",
+        "choices": [
+          {
+            "choiceId": "xht",
+            "choiceText": "Love Story"
+          },
+          {
+            "choiceId": "qwe",
+            "choiceText": "American Beauty"
+          },
+          {
+            "choiceId": "ukk",
+            "choiceText": "Sunset Blvd."
+          },
+          {
+            "choiceId": "lkm",
+            "choiceText": "White Heat"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q13",
+      "type": "text",
+      "correctChoiceId": "sms",
+      "questionContent": {
+        "text": "Frankly, my dear, I don't give a damn.",
+        "choices": [
+          {
+            "choiceId": "sms",
+            "choiceText": "Gone with the Wind"
+          },
+          {
+            "choiceId": "qwe",
+            "choiceText": "Dirty Harry"
+          },
+          {
+            "choiceId": "ukk",
+            "choiceText": "Animal Crackers"
+          },
+          {
+            "choiceId": "lkm",
+            "choiceText": "Annie Hall"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q14",
+      "type": "text",
+      "correctChoiceId": "xqq",
+      "questionContent": {
+        "text": "Leave the gun. Take the cannoli.",
+        "choices": [
+          {
+            "choiceId": "sms",
+            "choiceText": "The Godfather II"
+          },
+          {
+            "choiceId": "qwe",
+            "choiceText": "Once Upon a Time in America"
+          },
+          {
+            "choiceId": "ukk",
+            "choiceText": "Vertigo"
+          },
+          {
+            "choiceId": "xqq",
+            "choiceText": "The Godfather"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q15",
+      "type": "text",
+      "correctChoiceId": "kqp",
+      "questionContent": {
+        "text": "Did the kid see it?",
+        "choices": [
+          {
+            "choiceId": "sms",
+            "choiceText": "The Ressurection"
+          },
+          {
+            "choiceId": "kqp",
+            "choiceText": "Seven"
+          },
+          {
+            "choiceId": "ukk",
+            "choiceText": "The Poltergeist"
+          },
+          {
+            "choiceId": "xqq",
+            "choiceText": "M"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q16",
+      "type": "text",
+      "correctChoiceId": "xxx",
+      "questionContent": {
+        "text": "Smokey, this is not 'Nam. This is bowling. There are rules.",
+        "choices": [
+          {
+            "choiceId": "xxx",
+            "choiceText": "The Big Lebowski"
+          },
+          {
+            "choiceId": "eqq",
+            "choiceText": "American History X"
+          },
+          {
+            "choiceId": "ukk",
+            "choiceText": "The Manchurian Candidate"
+          },
+          {
+            "choiceId": "xqq",
+            "choiceText": "Forrest Gump"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q17",
+      "type": "text",
+      "correctChoiceId": "mzq",
+      "questionContent": {
+        "text": "Au revoir, Shoshanna!",
+        "choices": [
+          {
+            "choiceId": "xxx",
+            "choiceText": "Les Enfants du Paradis"
+          },
+          {
+            "choiceId": "eqq",
+            "choiceText": "Sleepless in Seattle"
+          },
+          {
+            "choiceId": "qwg",
+            "choiceText": "Amélie"
+          },
+          {
+            "choiceId": "mzq",
+            "choiceText": "Inglourious Basterds"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q18",
+      "type": "text",
+      "correctChoiceId": "vqn",
+      "questionContent": {
+        "text": "You had my curiosity. But now you have my attention.",
+        "choices": [
+          {
+            "choiceId": "llf",
+            "choiceText": "Finding Forrester"
+          },
+          {
+            "choiceId": "vqn",
+            "choiceText": "Django Unchained"
+          },
+          {
+            "choiceId": "qwg",
+            "choiceText": "Hail, Caesar!"
+          },
+          {
+            "choiceId": "mzq",
+            "choiceText": "Donnie Darko"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q19",
+      "type": "text",
+      "correctChoiceId": "odf",
+      "questionContent": {
+        "text": "Not quite my tempo.",
+        "choices": [
+          {
+            "choiceId": "llf",
+            "choiceText": "Almost Famous"
+          },
+          {
+            "choiceId": "vqn",
+            "choiceText": "Amadeus"
+          },
+          {
+            "choiceId": "qwg",
+            "choiceText": "La la Land"
+          },
+          {
+            "choiceId": "odf",
+            "choiceText": "Whiplash"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q20",
+      "type": "text",
+      "correctChoiceId": "fss",
+      "questionContent": {
+        "text": "You're tearing me apart, Lisa!",
+        "choices": [
+          {
+            "choiceId": "llf",
+            "choiceText": "The Social Network"
+          },
+          {
+            "choiceId": "fss",
+            "choiceText": "The Room"
+          },
+          {
+            "choiceId": "qwg",
+            "choiceText": "The Devil Wears Panda"
+          },
+          {
+            "choiceId": "odf",
+            "choiceText": "Mean Girls"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q21",
+      "type": "text",
+      "correctChoiceId": "kaa",
+      "questionContent": {
+        "text": "Get busy living, or get busy dying.",
+        "choices": [
+          {
+            "choiceId": "kaa",
+            "choiceText": "The Shawshank Redemption"
+          },
+          {
+            "choiceId": "fss",
+            "choiceText": "Glengarry Glen Ross"
+          },
+          {
+            "choiceId": "qwg",
+            "choiceText": "The Devil Wears Panda"
+          },
+          {
+            "choiceId": "odf",
+            "choiceText": "Cool Hand Luke"
+          }
+        ]
+      }
+    }
+  ]
+}

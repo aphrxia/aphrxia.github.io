@@ -1,0 +1,306 @@
+{
+  "id": "foobar-tux-is-9eiryy3jdkkas",
+  "title": "The Tux is in the house",
+  "startupMessage": "A quiz about Linux, the jewel of Open Source movement.",
+  "closingMessage": "Thanks for playing!",
+  "properties": {
+    "created_by": "foobar",
+    "description": "All about Linux :)",
+    "active": true,
+    "display": true,
+    "tags": ["technology", "os", "operating system", "unix", "linux"]
+  },
+  "labels": {
+    "startButtonLabel": "Start",
+    "nextButtonLabel": "Continue",
+    "previousButtonLabel": "Previous",
+    "skipButtonLabel": "Skip"
+  },
+  "options": {
+    "showIntro": true,
+    "allowRestart": true,
+    "allowGoBack": false,
+    "allowSkipQuestion": true,
+    "scrambleQuestionChoices": true,
+    "revealAnswer": true,
+    "revealTimeout": 1500,
+    "countdown": {
+      "useCountdownForEachQuestion": true,
+      "countdownMax": 10,
+      "countdownIndicator": {
+        "show": true,
+        "inDisplay": "loading"
+      }
+    },
+    "questionFont": "font-yeseva",
+    "questionChoiceFont": "roboto-mono",
+    "background": {
+      "type": "color",
+      "value": "yellow"
+    }
+  },
+  "questions": [
+    {
+      "questionId": "q08",
+      "type": "text",
+      "correctChoiceId": "vss",
+      "questionContent": {
+        "text": "Linux is an Operating System",
+        "choices": [
+          {
+            "choiceId": "cxs",
+            "choiceText": "True"
+          },
+          {
+            "choiceId": "vss",
+            "choiceText": "False"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q01",
+      "type": "text",
+      "correctChoiceId": "hsd",
+      "questionContent": {
+        "text": "What is the intended name for Linux kernel?",
+        "choices": [
+          {
+            "choiceId": "hsd",
+            "choiceText": "Freax"
+          },
+          {
+            "choiceId": "urd",
+            "choiceText": "Timix"
+          },
+          {
+            "choiceId": "zaq",
+            "choiceText": "Minix"
+          },
+          {
+            "choiceId": "oew",
+            "choiceText": "It is 'Linux' since the beginning"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q02",
+      "type": "text",
+      "correctChoiceId": "kaw",
+      "questionContent": {
+        "text": "What kernel version that supports GUI for the first time?",
+        "choices": [
+          {
+            "choiceId": "qy1",
+            "choiceText": "0.7"
+          },
+          {
+            "choiceId": "qwe",
+            "choiceText": "0.8"
+          },
+          {
+            "choiceId": "kaw",
+            "choiceText": "0.9"
+          },
+          {
+            "choiceId": "oew",
+            "choiceText": "1.0"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q07",
+      "type": "text",
+      "correctChoiceId": "wzx",
+      "questionContent": {
+        "text": "NSA once approach Linus Torvalds and ask him to inject a backdoor into Linux kernel",
+        "choices": [
+          {
+            "choiceId": "wzx",
+            "choiceText": "Fact"
+          },
+          {
+            "choiceId": "urd",
+            "choiceText": "Myth"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q03",
+      "type": "text",
+      "correctChoiceId": "mfw",
+      "questionContent": {
+        "text": "What is the first Linux distro ever released?",
+        "choices": [
+          {
+            "choiceId": "qy1",
+            "choiceText": "Caldera Linux"
+          },
+          {
+            "choiceId": "mfw",
+            "choiceText": "MCC Interim Linux"
+          },
+          {
+            "choiceId": "zaq",
+            "choiceText": "Slackware Linux"
+          },
+          {
+            "choiceId": "asd",
+            "choiceText": "Turbolinux"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q04",
+      "type": "text",
+      "correctChoiceId": "cvd",
+      "questionContent": {
+        "text": "Which one of these windowing system that is not for Linux-like environment?",
+        "choices": [
+          {
+            "choiceId": "ccc",
+            "choiceText": "Wayland"
+          },
+          {
+            "choiceId": "cvd",
+            "choiceText": "Desktop Window Manager"
+          },
+          {
+            "choiceId": "zaq",
+            "choiceText": "X Window System"
+          },
+          {
+            "choiceId": "asd",
+            "choiceText": "Mir"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q05",
+      "type": "text",
+      "correctChoiceId": "kjh",
+      "questionContent": {
+        "text": "Linux kernel was heavily influenced directly by Minix. Who wrote it?",
+        "choices": [
+          {
+            "choiceId": "ccc",
+            "choiceText": "Donald E. Knuth"
+          },
+          {
+            "choiceId": "qwe",
+            "choiceText": "Ken Thompson"
+          },
+          {
+            "choiceId": "zaq",
+            "choiceText": "Richard Stallman"
+          },
+          {
+            "choiceId": "kjh",
+            "choiceText": "Andrew S. Tannenbaum"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q06",
+      "type": "text",
+      "correctChoiceId": "rte",
+      "questionContent": {
+        "text": "Linux kernel was the first to support x86-64 arch in 2001",
+        "choices": [
+          {
+            "choiceId": "rte",
+            "choiceText": "Fact"
+          },
+          {
+            "choiceId": "urd",
+            "choiceText": "Myth"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q09",
+      "type": "text",
+      "correctChoiceId": "qwe",
+      "questionContent": {
+        "text": "When did Linux started adopting GPL?",
+        "choices": [
+          {
+            "choiceId": "ccc",
+            "choiceText": "1991"
+          },
+          {
+            "choiceId": "qwe",
+            "choiceText": "1992"
+          },
+          {
+            "choiceId": "lkm",
+            "choiceText": "1993"
+          },
+          {
+            "choiceId": "kjh",
+            "choiceText": "1994"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q10",
+      "type": "text",
+      "correctChoiceId": "xcw",
+      "questionContent": {
+        "text": "What is SystemD?",
+        "choices": [
+          {
+            "choiceId": "xcw",
+            "choiceText": "Linux init manager"
+          },
+          {
+            "choiceId": "qwe",
+            "choiceText": "Linux graphic system for X11"
+          },
+          {
+            "choiceId": "lkm",
+            "choiceText": "Linux user manager"
+          },
+          {
+            "choiceId": "kjh",
+            "choiceText": "Linux shell"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q11",
+      "type": "text",
+      "correctChoiceId": "bbf",
+      "questionContent": {
+        "text": "What is runlevel 5 means in Linux Standard Base?",
+        "choices": [
+          {
+            "choiceId": "xht",
+            "choiceText": "Start in single-user, root mode"
+          },
+          {
+            "choiceId": "qwe",
+            "choiceText": "Kill all services and shutdown"
+          },
+          {
+            "choiceId": "bbf",
+            "choiceText": "Start in normal mode with display manager"
+          },
+          {
+            "choiceId": "lkm",
+            "choiceText": "Kill all running services and reboot"
+          }
+        ]
+      }
+    }
+  ]
+}

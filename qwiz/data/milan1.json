@@ -1,0 +1,243 @@
+{
+  "id": "milan-9eiryy3jdkkas",
+  "title": "So... you call yourself 'Milanisti'?",
+  "startupMessage": "Prove it.",
+  "closingMessage": "Thanks for playing!",
+  "properties": {
+    "created_by": "foobarUser",
+    "description": "A call for all AC Milan fans",
+    "active": true,
+    "display": true,
+    "fontFamily": "sans-serif",
+    "tags": ["football", "serie a", "ac milan", "milan"]
+  },
+  "labels": {
+    "startButtonLabel": "Challenge accepted",
+    "nextButtonLabel": "Continue",
+    "previousButtonLabel": "Previous",
+    "skipButtonLabel": "Skip"
+  },
+  "options": {
+    "showIntro": true,
+    "allowRestart": true,
+    "allowGoBack": false,
+    "allowSkipQuestion": true,
+    "scrambleQuestionChoices": true,
+    "reducePointOnSkip": true,
+    "revealAnswer": true,
+    "revealTimeout": 1500,
+    "countdown": {
+      "useCountdownForEachQuestion": true,
+      "countdownMax": 10,
+      "countdownIndicator": {
+        "show": true,
+        "inDisplay": "loading"
+      }
+    },
+    "maxPoints": 100,
+    "automaticallyDistributePoints": true,
+    "pointPerQuestions": 20,
+    "reducedPointOnSkip": {
+      "usePointPerQuestion": true,
+      "useQuestionsPoint": false,
+      "useCustom": null
+    }
+  },
+  "questions": [
+    {
+      "questionId": "q01",
+      "correctChoiceId": "ddd",
+      "questionPoint": {
+        "useGeneratedPoint": true,
+        "useCustom": null
+      },
+      "questionContent": {
+        "text": "AC Milan was funded in 1899 by who?",
+        "choices": [
+          {
+            "choiceId": "ddd",
+            "choiceText": "English expats"
+          },
+          {
+            "choiceId": "urd",
+            "choiceText": "Italian students"
+          },
+          {
+            "choiceId": "zaq",
+            "choiceText": "Scottish traders"
+          },
+          {
+            "choiceId": "xse",
+            "choiceText": "Argentinian immigrants"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q02",
+      "correctChoiceId": "xcs",
+      "questionPoint": {
+        "useGeneratedPoint": true,
+        "useCustom": null
+      },
+      "questionContent": {
+        "text": "Milan's 1963 European Cup was the first for Italian clubs",
+        "choices": [
+          {
+            "choiceId": "xcs",
+            "choiceText": "True"
+          },
+          {
+            "choiceId": "xxs",
+            "choiceText": "False"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q03",
+      "correctChoiceId": "kgj",
+      "questionPoint": {
+        "useGeneratedPoint": true,
+        "useCustom": null
+      },
+      "questionContent": {
+        "text": "When was AC Milan adopted the name 'Associazione Calcio Milan'?",
+        "choices": [
+          {
+            "choiceId": "qy1",
+            "choiceText": "1936"
+          },
+          {
+            "choiceId": "kgj",
+            "choiceText": "1939"
+          },
+          {
+            "choiceId": "zaq",
+            "choiceText": "1941"
+          },
+          {
+            "choiceId": "asd",
+            "choiceText": "1944"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q04",
+      "correctChoiceId": "rfd",
+      "questionPoint": {
+        "useGeneratedPoint": true,
+        "useCustom": null
+      },
+      "questionContent": {
+        "text": "One of them never play for AC Milan",
+        "choices": [
+          {
+            "choiceId": "ccc",
+            "choiceText": "Lorenzo Buffon"
+          },
+          {
+            "choiceId": "qwe",
+            "choiceText": "Fabio Capello"
+          },
+          {
+            "choiceId": "rfd",
+            "choiceText": "Silvio Piola"
+          },
+          {
+            "choiceId": "asd",
+            "choiceText": "Claudio Borghi"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q05",
+      "correctChoiceId": "vbf",
+      "questionPoint": {
+        "useGeneratedPoint": true,
+        "useCustom": null
+      },
+      "questionContent": {
+        "text": "Who scores more than anyone for Milan in Derby della Madonnina?",
+        "choices": [
+          {
+            "choiceId": "ccc",
+            "choiceText": "Gunnar Nordahl"
+          },
+          {
+            "choiceId": "qwe",
+            "choiceText": "George Weah"
+          },
+          {
+            "choiceId": "zaq",
+            "choiceText": "Filippo Inzaghi"
+          },
+          {
+            "choiceId": "vbf",
+            "choiceText": "Andriy Shevchenko"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q06",
+      "correctChoiceId": "kqw",
+      "questionPoint": {
+        "useGeneratedPoint": true,
+        "useCustom": null
+      },
+      "questionContent": {
+        "text": "AC Milan defeat this club 7-1 on 3 January 1954, in the first ever televised football match in Italy.",
+        "choices": [
+          {
+            "choiceId": "rte",
+            "choiceText": "Inter Milan"
+          },
+          {
+            "choiceId": "kqw",
+            "choiceText": "Juventus"
+          },
+          {
+            "choiceId": "ldf",
+            "choiceText": "SSC Napoli"
+          },
+          {
+            "choiceId": "dfe",
+            "choiceText": "Pro Vercelli"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q07",
+      "correctChoiceId": "wsk",
+      "questionPoint": {
+        "useGeneratedPoint": true,
+        "useCustom": null
+      },
+      "questionContent": {
+        "text": "Who was the first ever German to play for AC Milan?",
+        "choices": [
+          {
+            "choiceId": "wsk",
+            "choiceText": "Johann Ferdinand Mädler"
+          },
+          {
+            "choiceId": "kqw",
+            "choiceText": "Jens Lehmann"
+          },
+          {
+            "choiceId": "ldf",
+            "choiceText": "Oliver Bierhoff"
+          },
+          {
+            "choiceId": "dfe",
+            "choiceText": "Karl Heinz Schnellinger"
+          }
+        ]
+      }
+    }
+  ]
+}

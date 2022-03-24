@@ -1,0 +1,323 @@
+{
+  "id": "juve-9eiryy3jdkkas",
+  "title": "Little things about Juve",
+  "startupMessage": "Hi! Consider you are a hardcore Juve fan? Try this quiz!",
+  "closingMessage": "Thanks for playing!",
+  "properties": {
+    "created_by": "foobarUser",
+    "description": "This is a test Quiz",
+    "active": true,
+    "display": true,
+    "tags": ["football", "serie a", "juventus"]
+  },
+  "labels": {
+    "startButtonLabel": "Start",
+    "nextButtonLabel": "Continue",
+    "previousButtonLabel": "Previous",
+    "skipButtonLabel": "Skip"
+  },
+  "options": {
+    "showIntro": true,
+    "allowRestart": true,
+    "allowGoBack": false,
+    "allowSkipQuestion": true,
+    "scrambleQuestionChoices": true,
+    "revealAnswer": true,
+    "revealTimeout": 1500,
+    "countdown": {
+      "useCountdownForEachQuestion": true,
+      "countdownMax": 10,
+      "countdownIndicator": {
+        "show": true,
+        "inDisplay": "loading"
+      }
+    },
+    "questionFont": "font-yeseva",
+    "questionChoiceFont": "roboto-mono",
+    "background": {
+      "type": "color",
+      "value": "yellow"
+    }
+  },
+  "questions": [
+    {
+      "questionId": "q01",
+      "type": "text",
+      "correctChoiceId": "zaq",
+      "questionContent": {
+        "text": "Name Juventus player who won both the World Cup and the Euro",
+        "choices": [
+          {
+            "choiceId": "qy1",
+            "choiceText": "Giampiero Boniperti"
+          },
+          {
+            "choiceId": "urd",
+            "choiceText": "Roberto Baggio"
+          },
+          {
+            "choiceId": "zaq",
+            "choiceText": "Dino Zoff"
+          },
+          {
+            "choiceId": "oew",
+            "choiceText": "Gianluigi Buffon"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q10",
+      "type": "text",
+      "correctChoiceId": "xqw",
+      "questionContent": {
+        "text": "Which one is Juventus' first stadium?",
+        "choices": [
+          {
+            "choiceId": "lkg",
+            "choiceText": "Stadio Olimpico di Torino"
+          },
+          {
+            "choiceId": "xqw",
+            "choiceText": "Stadio Motovelodromo Umberto I"
+          },
+          {
+            "choiceId": "zaq",
+            "choiceText": "Stadio Delle Alpi"
+          },
+          {
+            "choiceId": "oew",
+            "choiceText": "Stadio Filadelfia di Torino"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q08",
+      "type": "text",
+      "correctChoiceId": "lkg",
+      "questionContent": {
+        "text": "What is Juventus' original color?",
+        "choices": [
+          {
+            "choiceId": "lkg",
+            "choiceText": "Pink"
+          },
+          {
+            "choiceId": "urd",
+            "choiceText": "White"
+          },
+          {
+            "choiceId": "zaq",
+            "choiceText": "Yellow"
+          },
+          {
+            "choiceId": "oew",
+            "choiceText": "Black"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q02",
+      "type": "text",
+      "correctChoiceId": "qwe",
+      "questionContent": {
+        "text": "Who is the most capped player in Juventus history?",
+        "choices": [
+          {
+            "choiceId": "qy1",
+            "choiceText": "Gianlugi Buffon"
+          },
+          {
+            "choiceId": "qwe",
+            "choiceText": "Alessandro Del Piero"
+          },
+          {
+            "choiceId": "zaq",
+            "choiceText": "Gaetano Scirea"
+          },
+          {
+            "choiceId": "oew",
+            "choiceText": "José Altafini"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q03",
+      "type": "text",
+      "correctChoiceId": "asd",
+      "questionContent": {
+        "text": "Juventus won this in 1973, their first European title",
+        "choices": [
+          {
+            "choiceId": "qy1",
+            "choiceText": "UEFA European Cup (now Champions League)"
+          },
+          {
+            "choiceId": "qwe",
+            "choiceText": "UEFA Intertoto Cup"
+          },
+          {
+            "choiceId": "zaq",
+            "choiceText": "UEFA Super Cup"
+          },
+          {
+            "choiceId": "asd",
+            "choiceText": "UEFA Cup"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q04",
+      "type": "text",
+      "correctChoiceId": "ccc",
+      "questionContent": {
+        "text": "Who is the most capped Juventus manager of all time?",
+        "choices": [
+          {
+            "choiceId": "ccc",
+            "choiceText": "Giovanni Trapattoni"
+          },
+          {
+            "choiceId": "qwe",
+            "choiceText": "Marcello Lippi"
+          },
+          {
+            "choiceId": "zaq",
+            "choiceText": "Massimiliano Allegri"
+          },
+          {
+            "choiceId": "asd",
+            "choiceText": "Carlo Parola"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q05",
+      "type": "text",
+      "correctChoiceId": "frw",
+      "questionContent": {
+        "text": "This player won Serie A Footballer of the Year three times in a row",
+        "choices": [
+          {
+            "choiceId": "ccc",
+            "choiceText": "Alessandro Del Piero"
+          },
+          {
+            "choiceId": "qwe",
+            "choiceText": "Gianluigi Buffon"
+          },
+          {
+            "choiceId": "zaq",
+            "choiceText": "David Trezeguet"
+          },
+          {
+            "choiceId": "frw",
+            "choiceText": "Andrea Pirlo"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q06",
+      "type": "text",
+      "correctChoiceId": "khs",
+      "questionContent": {
+        "text": "What is the original Juventus slogan?",
+        "choices": [
+          {
+            "choiceId": "ccc",
+            "choiceText": "'Fino alla fine, Forza Juventus'"
+          },
+          {
+            "choiceId": "qwe",
+            "choiceText": "'Storia di un grande amore'"
+          },
+          {
+            "choiceId": "khs",
+            "choiceText": "'Non coronabitur nisi qui legitime certaverit'"
+          },
+          {
+            "choiceId": "frw",
+            "choiceText": "'Audere est facere'"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q07",
+      "type": "text",
+      "correctChoiceId": "rte",
+      "questionContent": {
+        "text": "Zibigniew Boniek is included in Juventus' 50 Hall of Stars",
+        "choices": [
+          {
+            "choiceId": "rte",
+            "choiceText": "True"
+          },
+          {
+            "choiceId": "urd",
+            "choiceText": "False"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q09",
+      "type": "text",
+      "correctChoiceId": "sss",
+      "questionContent": {
+        "text": "What is John Charles' nickname at Juventus?",
+        "choices": [
+          {
+            "choiceId": "lkg",
+            "choiceText": "Er Pupone"
+          },
+          {
+            "choiceId": "sss",
+            "choiceText": "Il Gigante Buono"
+          },
+          {
+            "choiceId": "zaq",
+            "choiceText": "L'Aeroplanino"
+          },
+          {
+            "choiceId": "oew",
+            "choiceText": "Il Divino Codino"
+          }
+        ]
+      }
+    },
+    {
+      "questionId": "q09",
+      "type": "image",
+      "correctChoiceId": "pdd",
+      "questionContent": {
+        "src": "https://i.pinimg.com/474x/20/b5/a3/20b5a375ae4424be7875ee4d86b60c0f.jpg",
+        "text": "Name this Juventus legend!",
+        "choices": [
+          {
+            "choiceId": "lkg",
+            "choiceText": "Zoran Mirkovic"
+          },
+          {
+            "choiceId": "sss",
+            "choiceText": "Stefano Tacconi"
+          },
+          {
+            "choiceId": "pdd",
+            "choiceText": "Vladimir Jugovic"
+          },
+          {
+            "choiceId": "oew",
+            "choiceText": "Michelangelo Rampulla"
+          }
+        ]
+      }
+    }
+  ]
+}
