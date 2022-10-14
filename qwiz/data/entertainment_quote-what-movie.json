@@ -1,7 +1,7 @@
 {
   "id": "movie-quotes-9eiryy3jdkkas",
-  "title": "What movie is that quote?",
-  "startupMessage": "I'll give you some quotes. Your task is to guess from which movie it is. ",
+  "title": "Guess the movie!",
+  "startupMessage": "I'll give you some memorable quotes, see if you can guess from what movie it is.",
   "closingMessage": "Thanks for playing!",
   "properties": {
     "created_by": "foobar",
